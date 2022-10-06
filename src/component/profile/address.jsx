@@ -10,6 +10,6 @@ export default function Address() {
   )
 
 }
-const doMargin = { margin:'10px 0' }
+const doMargin = { margin:'10px 0 40px 0' }
 const btn = {margin:'10px ',padding:3 , color:'#333', width: '80%',border: '1px solid' ,borderRadius: '10px' }
 // how do { btn:hover } here in object Style ?!
